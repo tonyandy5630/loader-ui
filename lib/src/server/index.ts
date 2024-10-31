@@ -5,5 +5,6 @@
  * */
 
 // server component exports
+export * from "./my-component";
 export * from "./dots";
 export * from "./bars";
